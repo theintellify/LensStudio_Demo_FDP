@@ -1,0 +1,1680 @@
+{
+    "lens_id": "",
+    "document_id": "69LZtVAqF142AUK0cOW7",
+    "original_document_id": "69LZtVAqF142AUK0cOW7",
+    "version": "29",
+    "lastChanged": "1663504105701",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "25",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "25",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Assets",
+                        "Default Assets"
+                    ],
+                    [
+                        "Assets",
+                        "Default Assets",
+                        "Echopark"
+                    ],
+                    [
+                        "Assets",
+                        "Default Assets",
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Assets",
+                        "Default Assets",
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Assets",
+                        "Default Assets",
+                        "Portrait Background Segmentation"
+                    ],
+                    [
+                        "Assets",
+                        "Scripts",
+                        "TapController"
+                    ],
+                    [
+                        "Assets",
+                        "Textures"
+                    ],
+                    [
+                        "Assets",
+                        "Textures",
+                        "Chichén Itzá"
+                    ],
+                    [
+                        "Assets",
+                        "Textures",
+                        "Christ the Redeemer"
+                    ],
+                    [
+                        "Assets",
+                        "Textures",
+                        "Colosseum"
+                    ],
+                    [
+                        "Assets",
+                        "Textures",
+                        "Great Wall of China"
+                    ],
+                    [
+                        "Assets",
+                        "Textures",
+                        "Machu Picchu"
+                    ],
+                    [
+                        "Assets",
+                        "Textures",
+                        "Petra"
+                    ],
+                    [
+                        "Assets",
+                        "Textures",
+                        "Taj Mahal"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1663495128280203:311425"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "a6f9a6824ea072e604866d3b13b0313f",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": {
+                "1649094984677630:32157": {
+                    "longitude": "-0.13121148943901062",
+                    "latitude": "51.512771606445312",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649094984677441:32156",
+                    "locationAsset": "1649094984678151:32158"
+                },
+                "1649772212970366:35230": {
+                    "longitude": "-0.13149562478065491",
+                    "latitude": "51.513656616210938",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649772212970143:35229",
+                    "locationAsset": "1649772212970867:35231"
+                },
+                "1649778275335615:644381": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649778655920914:710757": {
+                    "longitude": "-0.13150887191295624",
+                    "latitude": "51.513614654541016",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Frith Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649778655920668:710756",
+                    "locationAsset": "1649778655921339:710758"
+                },
+                "1649865066556768:58106": {
+                    "longitude": "-0.13167314231395721",
+                    "latitude": "51.513031005859375",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Old Compton Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649865066556471:58105",
+                    "locationAsset": "1649865066557449:58107"
+                },
+                "1649964505575077:712535": {
+                    "longitude": "-0.13096083700656891",
+                    "latitude": "51.512859344482422",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Romilly Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649964505574756:712534",
+                    "locationAsset": "1649964505575881:712536"
+                }
+            },
+            "mapCurrentPosition": {
+                "x": "-0.130984917",
+                "y": "51.5128555"
+            }
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1663496671199621:407935",
+                    "name": "Files\/File36.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1663501222488105:794911",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1663501756118937:907303",
+                    "name": "Files\/File60.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1663501953133418:916447",
+                    "name": "Files\/File63.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1663502336845090:931181",
+                    "name": "Files\/File66.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1663502571102242:943341",
+                    "name": "Files\/File69.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1663502774814726:950261",
+                    "name": "Files\/File72.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1663503127472428:962324",
+                    "name": "Files\/File75.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1663503379889280:970588",
+                    "name": "Files\/File78.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1663499098795636:532847",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663499174909121:550872",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663499340132668:575390",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663499340624756:579347",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663499341258514:583609",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663499341904438:587867",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663499342606776:592152",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663499343030960:594311",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663499344676248:600787",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663501050662336:760178",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663501050687723:760305",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663501474213141:884982",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663501506205463:892179",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663502092346342:924843",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663502421830480:938428",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663502624494653:946606",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663502860649236:956223",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1663503192161664:965727",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1663496685890116:409107",
+                "4": "1663499098783480:532788",
+                "5": "1663499098794585:532845",
+                "6": "1663499174887634:550633",
+                "7": "1663499340112669:575151",
+                "8": "1663499340600549:578937",
+                "9": "1663499341238526:583370",
+                "10": "1663499341880628:587630",
+                "11": "1663499342582809:591915",
+                "12": "1663499343010851:594072",
+                "13": "1663499344659469:600550",
+                "14": "1663501050660051:760176",
+                "15": "1663501050687474:760304",
+                "16": "1663501174087957:785693",
+                "17": "1663501474212878:884981",
+                "18": "1663501506188863:891942",
+                "19": "1663502092345638:924841",
+                "20": "1663502421829776:938426",
+                "21": "1663502624493817:946604",
+                "22": "1663502860648214:956221",
+                "23": "1663503192160896:965725"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Mask Layer",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.js"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.jpg"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.jpg"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.jpg"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.jpg"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.jpg"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.jpg"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.jpg"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.jpg"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.jpg"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.jpg"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.jpg"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.jpg"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.jpg"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.jpg"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.jpg"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.jpg"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.jpg"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.jpg"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.jpg"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.jpg"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.jpg"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Assets\/Default Assets\/Echopark.hdr"
+                    },
+                    {
+                        "k": "29216",
+                        "v": "Assets"
+                    },
+                    {
+                        "k": "29217",
+                        "v": "Assets\/Default Assets"
+                    },
+                    {
+                        "k": "29218",
+                        "v": "Assets\/Textures"
+                    },
+                    {
+                        "k": "29235",
+                        "v": "Assets\/Scripts"
+                    },
+                    {
+                        "k": "29236",
+                        "v": "Assets\/Scripts\/TapController.js"
+                    },
+                    {
+                        "k": "29246",
+                        "v": "Assets\/Textures\/Taj Mahal.jpg"
+                    },
+                    {
+                        "k": "29247",
+                        "v": "Assets\/Textures\/Great Wall of China.jpg"
+                    },
+                    {
+                        "k": "29248",
+                        "v": "Assets\/Textures\/Chichén Itzá.jpg"
+                    },
+                    {
+                        "k": "29249",
+                        "v": "Assets\/Textures\/Petra.jpg"
+                    },
+                    {
+                        "k": "29250",
+                        "v": "Assets\/Textures\/Machu Picchu.jpg"
+                    },
+                    {
+                        "k": "29251",
+                        "v": "Assets\/Textures\/Christ the Redeemer.jpg"
+                    },
+                    {
+                        "k": "29252",
+                        "v": "Assets\/Textures\/Colosseum.jpg"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "29221",
+                        "v": "41c9cbdd90f09bc4ef00aae2315ee242"
+                    },
+                    {
+                        "k": "29222",
+                        "v": "41c9cbdd90f09bc4ef00aae2315ee242"
+                    },
+                    {
+                        "k": "29223",
+                        "v": "ffbce66d7c12d942b13208740e9d0059"
+                    },
+                    {
+                        "k": "29225",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "29226",
+                        "v": "b23c83076b5040892011a30cd0bc2d8a"
+                    },
+                    {
+                        "k": "29227",
+                        "v": "41c9cbdd90f09bc4ef00aae2315ee242"
+                    },
+                    {
+                        "k": "29228",
+                        "v": "d14f87a6a63d41955eb30464f5849aec"
+                    },
+                    {
+                        "k": "29230",
+                        "v": "122901e50696d1213264ee354fef6c2d"
+                    },
+                    {
+                        "k": "29231",
+                        "v": "4f8cb62da7e7dfbac02022f838536d72"
+                    },
+                    {
+                        "k": "29233",
+                        "v": "54b5058dca04129f4c7d8528d7173edd"
+                    },
+                    {
+                        "k": "29234",
+                        "v": "4b435b3fba7e3e0931b9529144a6d93a"
+                    },
+                    {
+                        "k": "29236",
+                        "v": "f0480beac4f79e3b9d80755425c902fb"
+                    },
+                    {
+                        "k": "29237",
+                        "v": "01a9763b1eb0a603087e3969de7b6869"
+                    },
+                    {
+                        "k": "29239",
+                        "v": "f01a4bf277da99be3c9d09afc8aeb0fc"
+                    },
+                    {
+                        "k": "29240",
+                        "v": "34658d174475c23ddc51e1c097e394f2"
+                    },
+                    {
+                        "k": "29241",
+                        "v": "19a4ad5402346dee9d3eb49962df93d2"
+                    },
+                    {
+                        "k": "29242",
+                        "v": "8fe38ca8b4a6cdd7ce6ab880e860a472"
+                    },
+                    {
+                        "k": "29243",
+                        "v": "bd103acf2da945dbda8fd0a22289a700"
+                    },
+                    {
+                        "k": "29244",
+                        "v": "b0f5b7b7538045b7d216323a76a3ceae"
+                    },
+                    {
+                        "k": "29245",
+                        "v": "829f9eb78da4b297beb3746d8897947b"
+                    },
+                    {
+                        "k": "29246",
+                        "v": "5ff68219c62d4244df92992f7d5121c2"
+                    },
+                    {
+                        "k": "29247",
+                        "v": "f53d76c07509c76a05eed485990c9e10"
+                    },
+                    {
+                        "k": "29248",
+                        "v": "6210e35ceaa889547edc6c514876c0fc"
+                    },
+                    {
+                        "k": "29249",
+                        "v": "749c51fe2c42b88f19eac81187b2d452"
+                    },
+                    {
+                        "k": "29250",
+                        "v": "f3e56596f7224510d28c691e1ef01272"
+                    },
+                    {
+                        "k": "29251",
+                        "v": "a9cb122f4c1f92c785fe2b9275495b0a"
+                    },
+                    {
+                        "k": "29252",
+                        "v": "39e2c6e9aacd6805894ef0e09f6089c3"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-09-18T15:26:45",
+                        "name": "Public",
+                        "hash": "8a511c38168e5a65a97c153576d9d1ac",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-09-18T17:20:51",
+                                "name": "Assets",
+                                "hash": "8b1ef58fa6b3fcdb763b12fc0934cadd",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-09-18T15:26:45",
+                                        "name": "Default Assets",
+                                        "hash": "7305afc99178fbb8f0912889f41c0cab",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-07-21T16:54:42",
+                                                "name": "Echopark.hdr",
+                                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-18T15:13:08",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-09-18T15:12:58",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-09-18T15:54:41",
+                                        "name": "Scripts",
+                                        "hash": "1f25a3a1aa625254322b1c85985cbe10",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-18T15:54:23",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-18T17:47:38",
+                                                "name": "TapController.js",
+                                                "hash": "f0480beac4f79e3b9d80755425c902fb",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-09-18T17:46:45",
+                                        "name": "Textures",
+                                        "hash": "dcfadb3a2d18149758a8ae5b86be8891",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-18T17:28:30",
+                                                "name": "Chichén Itzá.jpg",
+                                                "hash": "6210e35ceaa889547edc6c514876c0fc",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-18T17:40:22",
+                                                "name": "Christ the Redeemer.jpg",
+                                                "hash": "a9cb122f4c1f92c785fe2b9275495b0a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-18T17:45:15",
+                                                "name": "Colosseum.jpg",
+                                                "hash": "39e2c6e9aacd6805894ef0e09f6089c3",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-18T15:13:36",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-18T17:21:59",
+                                                "name": "Great Wall of China.jpg",
+                                                "hash": "f53d76c07509c76a05eed485990c9e10",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-18T17:34:38",
+                                                "name": "Machu Picchu.jpg",
+                                                "hash": "f3e56596f7224510d28c691e1ef01272",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-18T17:31:50",
+                                                "name": "Petra.jpg",
+                                                "hash": "749c51fe2c42b88f19eac81187b2d452",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-18T17:18:09",
+                                                "name": "Taj Mahal.jpg",
+                                                "hash": "5ff68219c62d4244df92992f7d5121c2",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-07-21T16:54:42",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Assets",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29216",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Default Assets",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29217",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Render Target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1:1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Device Camera Texture",
+                                        "type": "1",
+                                        "subtype": "3",
+                                        "resourceId": "2",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "2:2",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Physics Root World Settings",
+                                        "type": "36",
+                                        "subtype": "1",
+                                        "resourceId": "12",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "8675309:9035768",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Echopark",
+                                        "type": "9",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "2",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "7",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "967",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Diff",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "10",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1588296316843646:534374",
+                                                "fileId": "3",
+                                                "originalId": "4",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Specular",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "11",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1588296316857901:534385",
+                                                "fileId": "5",
+                                                "originalId": "6",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Portrait Background Segmentation",
+                                        "type": "1",
+                                        "subtype": "14",
+                                        "resourceId": "35",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663501222488105:794911",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29218",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Taj Mahal",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "36",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663501756118937:907303",
+                                        "fileId": "60",
+                                        "originalId": "61",
+                                        "publicId": "29246",
+                                        "source": "C:\/Users\/ADMIN\/Downloads\/sachin-chauhan-a2BiBn_0Gvg-unsplash.jpg",
+                                        "additional": {
+                                            "originHash": "5ff68219c62d4244df92992f7d5121c2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Great Wall of China",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "37",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663501953133418:916447",
+                                        "fileId": "63",
+                                        "originalId": "64",
+                                        "publicId": "29247",
+                                        "source": "C:\/Users\/ADMIN\/Downloads\/max-van-den-oetelaar-iyTHrdzcu0Q-unsplash.jpg",
+                                        "additional": {
+                                            "originHash": "f53d76c07509c76a05eed485990c9e10"
+                                        }
+                                    },
+                                    {
+                                        "name": "Chichén Itzá",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "38",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663502336845090:931181",
+                                        "fileId": "66",
+                                        "originalId": "67",
+                                        "publicId": "29248",
+                                        "source": "C:\/Users\/ADMIN\/Downloads\/malek-bee-2CiSQRDpbIM-unsplash.jpg",
+                                        "additional": {
+                                            "originHash": "6210e35ceaa889547edc6c514876c0fc"
+                                        }
+                                    },
+                                    {
+                                        "name": "Petra",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "39",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663502571102242:943341",
+                                        "fileId": "69",
+                                        "originalId": "70",
+                                        "publicId": "29249",
+                                        "source": "C:\/Users\/ADMIN\/Downloads\/filippo-cesarini-c8F1hJ_UTrk-unsplash.jpg",
+                                        "additional": {
+                                            "originHash": "749c51fe2c42b88f19eac81187b2d452"
+                                        }
+                                    },
+                                    {
+                                        "name": "Machu Picchu",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "40",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663502774814726:950261",
+                                        "fileId": "72",
+                                        "originalId": "73",
+                                        "publicId": "29250",
+                                        "source": "C:\/Users\/ADMIN\/Downloads\/evan-sanchez-xsm6EJM1mP4-unsplash.jpg",
+                                        "additional": {
+                                            "originHash": "f3e56596f7224510d28c691e1ef01272"
+                                        }
+                                    },
+                                    {
+                                        "name": "Christ the Redeemer",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "41",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663503127472428:962324",
+                                        "fileId": "75",
+                                        "originalId": "76",
+                                        "publicId": "29251",
+                                        "source": "C:\/Users\/ADMIN\/Downloads\/pexels-vinicius-garcias-andrade-10205938.jpg",
+                                        "additional": {
+                                            "originHash": "a9cb122f4c1f92c785fe2b9275495b0a"
+                                        }
+                                    },
+                                    {
+                                        "name": "Colosseum",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "42",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663503379889280:970588",
+                                        "fileId": "78",
+                                        "originalId": "79",
+                                        "publicId": "29252",
+                                        "source": "C:\/Users\/ADMIN\/Downloads\/pexels-olga-lioncat-7245244.jpg",
+                                        "additional": {
+                                            "originHash": "39e2c6e9aacd6805894ef0e09f6089c3"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Scripts",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29235",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "TapController",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "25",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663496671199621:407935",
+                                        "fileId": "36",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "29236",
+                                        "source": "C:\/Users\/ADMIN\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioBJkskyTxxUdY\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": [
+                {
+                    "k": "1663498694667273:503021",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1663498694664921:503006"
+                        },
+                        {
+                            "k": [
+                                "Sphere"
+                            ],
+                            "v": "1663498694665594:503008"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1663498694665857:503010"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1663501756118937:907303",
+                    "v": {
+                        "infos": {
+                            "originalSize": "378821",
+                            "compressedSize": "378821",
+                            "originalRAM": "13418496",
+                            "compressedRAM": "13418496",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "62",
+                        "compressed_files": "",
+                        "desiredSettings": {
+                            "isCompressed": "true",
+                            "level": "3",
+                            "type": "0",
+                            "subtype": "9"
+                        }
+                    }
+                },
+                {
+                    "k": "1663501953133418:916447",
+                    "v": {
+                        "infos": {
+                            "originalSize": "354448",
+                            "compressedSize": "354448",
+                            "originalRAM": "11182080",
+                            "compressedRAM": "11182080",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "65",
+                        "compressed_files": "",
+                        "desiredSettings": {
+                            "isCompressed": "true",
+                            "level": "3",
+                            "type": "0",
+                            "subtype": "9"
+                        }
+                    }
+                },
+                {
+                    "k": "1663502336845090:931181",
+                    "v": {
+                        "infos": {
+                            "originalSize": "425118",
+                            "compressedSize": "425118",
+                            "originalRAM": "11182080",
+                            "compressedRAM": "11182080",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "68",
+                        "compressed_files": "",
+                        "desiredSettings": {
+                            "isCompressed": "true",
+                            "level": "3",
+                            "type": "0",
+                            "subtype": "9"
+                        }
+                    }
+                },
+                {
+                    "k": "1663502571102242:943341",
+                    "v": {
+                        "infos": {
+                            "originalSize": "518701",
+                            "compressedSize": "518701",
+                            "originalRAM": "13418496",
+                            "compressedRAM": "13418496",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "71",
+                        "compressed_files": "",
+                        "desiredSettings": {
+                            "isCompressed": "true",
+                            "level": "3",
+                            "type": "0",
+                            "subtype": "9"
+                        }
+                    }
+                },
+                {
+                    "k": "1663502774814726:950261",
+                    "v": {
+                        "infos": {
+                            "originalSize": "698821",
+                            "compressedSize": "698821",
+                            "originalRAM": "13418496",
+                            "compressedRAM": "13418496",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "74",
+                        "compressed_files": "",
+                        "desiredSettings": {
+                            "isCompressed": "true",
+                            "level": "3",
+                            "type": "0",
+                            "subtype": "9"
+                        }
+                    }
+                },
+                {
+                    "k": "1663503127472428:962324",
+                    "v": {
+                        "infos": {
+                            "originalSize": "254466",
+                            "compressedSize": "254466",
+                            "originalRAM": "13418496",
+                            "compressedRAM": "13418496",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "77",
+                        "compressed_files": "",
+                        "desiredSettings": {
+                            "isCompressed": "true",
+                            "level": "3",
+                            "type": "0",
+                            "subtype": "9"
+                        }
+                    }
+                },
+                {
+                    "k": "1663503379889280:970588",
+                    "v": {
+                        "infos": {
+                            "originalSize": "450808",
+                            "compressedSize": "450808",
+                            "originalRAM": "11190272",
+                            "compressedRAM": "11190272",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "80",
+                        "compressed_files": "",
+                        "desiredSettings": {
+                            "isCompressed": "true",
+                            "level": "3",
+                            "type": "0",
+                            "subtype": "9"
+                        }
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.25.1"
+}
